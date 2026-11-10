@@ -1,0 +1,9 @@
+{
+  "question_id": "dev-001",
+  "group_id": "replace-with-trial-or-evidence-family",
+  "question": "Replace with a question answerable from approved sources",
+  "answerable": true,
+  "required_facts": ["Human-written expected fact with trial, units and time point"],
+  "gold_evidence_ids": ["replace-with-real-chunk-id"],
+  "split": "development"
+}
