@@ -138,8 +138,6 @@ pharmascope-ai/
 └── README.md                         # Project overview
 ```
 
-*The root folder name shown above is the suggested repository name. Data folders and the database are populated during setup; downloaded records, generated indexes, and secrets are excluded from version control.*
-
 
 ## Data sources
 
